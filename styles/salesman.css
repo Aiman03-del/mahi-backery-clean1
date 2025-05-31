@@ -1,0 +1,19 @@
+/* Example styles */
+.salesman-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.salesman-table th,
+.salesman-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.salesman-input {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Add more styles as needed... */
